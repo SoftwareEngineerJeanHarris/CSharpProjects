@@ -1,0 +1,9 @@
+C:\Users\godil\Desktop\Programming\C#\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe.config
+C:\Users\godil\Desktop\Programming\C#\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe
+C:\Users\godil\Desktop\Programming\C#\TipCalculator\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\Users\godil\Desktop\Programming\C#\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csprojAssemblyReference.cache
+C:\Users\godil\Desktop\Programming\C#\TipCalculator\TipCalculator\obj\Debug\TipCalculator.Properties.Resources.resources
+C:\Users\godil\Desktop\Programming\C#\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csproj.GenerateResource.cache
+C:\Users\godil\Desktop\Programming\C#\TipCalculator\TipCalculator\obj\Debug\TipCalculator.exe
+C:\Users\godil\Desktop\Programming\C#\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb
+C:\Users\godil\Desktop\Programming\C#\TipCalculator\TipCalculator\obj\Debug\TipCalculator.tipCalculatorWindow.resources
