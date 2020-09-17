@@ -1,0 +1,18 @@
+C:\Users\godil\Desktop\Programming\C#\UserAccount\UserAccount\bin\Debug\UserAccount.exe.config
+C:\Users\godil\Desktop\Programming\C#\UserAccount\UserAccount\bin\Debug\UserAccount.exe
+C:\Users\godil\Desktop\Programming\C#\UserAccount\UserAccount\bin\Debug\UserAccount.pdb
+C:\Users\godil\Desktop\Programming\C#\UserAccount\UserAccount\obj\Debug\UserAccount.csprojAssemblyReference.cache
+C:\Users\godil\Desktop\Programming\C#\UserAccount\UserAccount\obj\Debug\UserAccount.userAccountsWindow.resources
+C:\Users\godil\Desktop\Programming\C#\UserAccount\UserAccount\obj\Debug\UserAccount.Properties.Resources.resources
+C:\Users\godil\Desktop\Programming\C#\UserAccount\UserAccount\obj\Debug\UserAccount.csproj.GenerateResource.cache
+C:\Users\godil\Desktop\Programming\C#\UserAccount\UserAccount\obj\Debug\UserAccount.exe
+C:\Users\godil\Desktop\Programming\C#\UserAccount\UserAccount\obj\Debug\UserAccount.pdb
+C:\Users\godil\Desktop\Programming\C#\User Account\UserAccount\bin\Debug\UserAccount.exe.config
+C:\Users\godil\Desktop\Programming\C#\User Account\UserAccount\bin\Debug\UserAccount.exe
+C:\Users\godil\Desktop\Programming\C#\User Account\UserAccount\bin\Debug\UserAccount.pdb
+C:\Users\godil\Desktop\Programming\C#\User Account\UserAccount\obj\Debug\UserAccount.csprojAssemblyReference.cache
+C:\Users\godil\Desktop\Programming\C#\User Account\UserAccount\obj\Debug\UserAccount.userAccountsWindow.resources
+C:\Users\godil\Desktop\Programming\C#\User Account\UserAccount\obj\Debug\UserAccount.Properties.Resources.resources
+C:\Users\godil\Desktop\Programming\C#\User Account\UserAccount\obj\Debug\UserAccount.csproj.GenerateResource.cache
+C:\Users\godil\Desktop\Programming\C#\User Account\UserAccount\obj\Debug\UserAccount.exe
+C:\Users\godil\Desktop\Programming\C#\User Account\UserAccount\obj\Debug\UserAccount.pdb
